@@ -1,0 +1,10 @@
+../Dixom/Exchange/Src/DIX_can.c:28:6:InitTxHeader	1
+../Dixom/Exchange/Src/DIX_can.c:37:9:UpdateCanFilter	6
+../Dixom/Exchange/Src/DIX_can.c:91:9:SetCanFilter	2
+../Dixom/Exchange/Src/DIX_can.c:108:9:SetCanSpeed	2
+../Dixom/Exchange/Src/DIX_can.c:120:9:SetCanSpeedReg	4
+../Dixom/Exchange/Src/DIX_can.c:143:9:SetCanStart	6
+../Dixom/Exchange/Src/DIX_can.c:169:9:SetCanStop	4
+../Dixom/Exchange/Src/DIX_can.c:188:6:HAL_CAN_RxFifo0MsgPendingCallback	3
+../Dixom/Exchange/Src/DIX_can.c:202:6:HAL_CAN_TxMailbox0CompleteCallback	1
+../Dixom/Exchange/Src/DIX_can.c:206:9:Transmit_CAN1	3

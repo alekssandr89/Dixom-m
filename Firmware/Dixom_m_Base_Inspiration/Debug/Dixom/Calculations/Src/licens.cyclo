@@ -1,0 +1,8 @@
+../Dixom/Calculations/Src/licens.c:31:6:DIXOM_KEY	2
+../Dixom/Calculations/Src/licens.c:46:6:Software_CRC32_Initialization	3
+../Dixom/Calculations/Src/licens.c:60:6:Activation_Key_Initialization	3
+../Dixom/Calculations/Src/licens.c:109:6:checkKey	5
+../Dixom/Calculations/Src/licens.c:131:5:strncmp2	2
+../Dixom/Calculations/Src/licens.c:138:9:protection	2
+../Dixom/Calculations/Src/licens.c:145:6:GET_PRODUCT_key	4
+../Dixom/Calculations/Src/licens.c:159:7:GET_PRODUCT_key_string	1

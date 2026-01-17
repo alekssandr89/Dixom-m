@@ -1,0 +1,4 @@
+C:/Users/alekk/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	1
+../Dixom/Platform/Update/UpdateBootloader.c:19:9:getCurrentBootVersion	1
+../Dixom/Platform/Update/UpdateBootloader.c:23:6:BootUpdate	11
+../Dixom/Platform/Update/UpdateBootloader.c:94:6:Only_BootUpdate	9

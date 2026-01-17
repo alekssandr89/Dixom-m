@@ -1,0 +1,15 @@
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:26:6:LoadingOled	24	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:38:6:OledMenuPowerDown	16	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:47:6:Automatic_Detection_Oled_Display_And_Initialization	8	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:62:6:mSecondOledTimer	4	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:91:6:OledDisplayDoneInit	8	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:99:6:OledTimerUpdate	24	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:108:6:ClearPixel	8	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:115:6:OledMenuBluetoothPhone	24	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:172:6:OledMenuMain	72	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:580:6:OledDisplayEvent	16	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:695:6:OledMenuLevel2_1	16	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:724:6:OledGroupVol	16	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:828:6:OledBrightness	16	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:855:6:OledSourceSetup	16	static
+../Dixom/Module/Display/DisplayOled/Src/OledDisplay.c:895:6:OledMenuLevel1	16	static

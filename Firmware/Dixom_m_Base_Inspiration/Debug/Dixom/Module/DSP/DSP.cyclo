@@ -1,0 +1,9 @@
+../Dixom/Module/DSP/DSP.c:14:9:DSP_Struct_Flash_Read	2
+../Dixom/Module/DSP/DSP.c:28:9:DSP_Struct_EEPROM_Read	3
+../Dixom/Module/DSP/DSP.c:54:9:DSP_Module_Initialization_Final	3
+../Dixom/Module/DSP/DSP.c:65:6:DSP_Flash_NeedToSave	1
+../Dixom/Module/DSP/DSP.c:70:6:DSP_EEPROM_NeedToSave	1
+../Dixom/Module/DSP/DSP.c:74:9:DSP_Struct_Flash_Write	1
+../Dixom/Module/DSP/DSP.c:85:9:DSP_Struct_EEPROM_Write	3
+../Dixom/Module/DSP/DSP.c:110:9:DSP_Struct_Chip_Init	1
+../Dixom/Module/DSP/DSP.c:117:6:DSP_Loop	2

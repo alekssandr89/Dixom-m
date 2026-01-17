@@ -1,0 +1,10 @@
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:37:6:CrystalSix140DTemperatureReadStream	4
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:51:6:GetRealTemperature	2
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:61:6:ShowAmplifierTemperature	1
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:68:6:GetTemperature	1
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:76:6:GetConfigThermometer	1
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:84:6:CurentTemperatureRead	1
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:93:6:ThermometerConfigRead	1
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:102:6:SetConfigTemperature	1
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:113:6:InitCrystalSixThermometer	1
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DThermometer.c:126:6:CONFIG_CRYSTALSIX140D_THERMOMETER	8

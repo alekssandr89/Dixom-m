@@ -1,0 +1,5 @@
+../Dixom/Platform/Information.c:20:6:Initialization_Firmware_Information	1
+../Dixom/Platform/Information.c:40:6:Initialization_Device_Information	1
+../Dixom/Platform/Information.c:63:6:DIXOM_PCB	2
+../Dixom/Platform/Information.c:74:6:DIXOM_VERSION	6
+../Dixom/Platform/Information.c:154:6:EXHANGE_LOG	5

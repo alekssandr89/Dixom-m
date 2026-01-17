@@ -1,0 +1,8 @@
+../Dixom/Menu/Src/main_Action.c:16:6:ActionSend	64	static
+../Dixom/Menu/Src/main_Action.c:43:6:Action	40	static
+../Dixom/Menu/Src/main_Action.c:312:6:Action_MultiWheel	32	static
+../Dixom/Menu/Src/main_Action.c:353:6:Set	16	static
+../Dixom/Menu/Src/main_Action.c:363:6:Next	16	static
+../Dixom/Menu/Src/main_Action.c:373:6:Previous	16	static
+../Dixom/Menu/Src/main_Action.c:383:6:HoldNext	16	static
+../Dixom/Menu/Src/main_Action.c:393:6:HoldPrevious	8	static

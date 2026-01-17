@@ -1,0 +1,5 @@
+../Dixom/Module/Display/DisplayMain.c:16:6:DISPLAY	3
+../Dixom/Module/Display/DisplayMain.c:25:6:SET_Brightness	3
+../Dixom/Module/Display/DisplayMain.c:37:6:SetDisplayBrightness	7
+../Dixom/Module/Display/DisplayMain.c:54:6:SetBrightness	1
+../Dixom/Module/Display/DisplayMain.c:62:6:Display_Loading_Complete	1

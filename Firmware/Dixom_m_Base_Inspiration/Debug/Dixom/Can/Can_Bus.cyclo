@@ -1,0 +1,11 @@
+../Dixom/Can/Can_Bus.c:19:9:CAN_Initialization_Final	2
+../Dixom/Can/Can_Bus.c:46:9:CAN_Struct_Flash_Read	2
+../Dixom/Can/Can_Bus.c:60:9:Can_Struct_Flash_Write	1
+../Dixom/Can/Can_Bus.c:69:6:CAN_Show_Settings	4
+../Dixom/Can/Can_Bus.c:78:6:Can_Settings_Default	2
+../Dixom/Can/Can_Bus.c:84:9:CAN_Struct_Default	2
+../Dixom/Can/Can_Bus.c:120:10:CanStructSize	1
+../Dixom/Can/Can_Bus.c:129:6:Can_Interaction_Loop	3
+../Dixom/Can/Can_Bus.c:155:6:canTxLoop	1
+../Dixom/Can/Can_Bus.c:158:6:canRxLoop	3
+../Dixom/Can/Can_Bus.c:169:6:Receiver_CAN1	7

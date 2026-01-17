@@ -1,0 +1,9 @@
+../Dixom/Platform/Structures.c:12:9:Structures_Initialization_From_Flash	1
+../Dixom/Platform/Structures.c:25:9:Structures_Initialization_From_EEPROM	1
+../Dixom/Platform/Structures.c:41:9:Structures_Initialization_Final	1
+../Dixom/Platform/Structures.c:57:6:Save_Structure_When_Power_Off	1
+../Dixom/Platform/Structures.c:62:9:Structures_Write_To_Flash	5
+../Dixom/Platform/Structures.c:100:9:Structures_Write_To_EEPROM	2
+../Dixom/Platform/Structures.c:127:6:SET_DEFAULT_STRUCTURES	2
+../Dixom/Platform/Structures.c:140:9:Structures_Default	9
+../Dixom/Platform/Structures.c:196:6:Loading	2

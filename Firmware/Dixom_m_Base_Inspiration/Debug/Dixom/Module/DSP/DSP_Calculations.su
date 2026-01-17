@@ -1,0 +1,12 @@
+../Dixom/Module/DSP/DSP_Calculations.c:22:6:DSP_setFloatPointInDataArray	24	static
+../Dixom/Module/DSP/DSP_Calculations.c:30:6:DSP_set5PointInDataArray	32	static
+../Dixom/Module/DSP/DSP_Calculations.c:38:6:DSP_CalculateFilter_POINT	232	static
+../Dixom/Module/DSP/DSP_Calculations.c:235:6:DSP_LoudnessLevelCalculation	48	static
+../Dixom/Module/DSP/DSP_Calculations.c:242:6:DSP_LoudnessFreqCalculation	72	static
+../Dixom/Module/DSP/DSP_Calculations.c:281:6:DSP_GainCalculation	24	static
+../Dixom/Module/DSP/DSP_Calculations.c:294:6:DSP_VolCalculation	40	static
+../Dixom/Module/DSP/DSP_Calculations.c:318:6:DSP_DelayCalculation	32	static
+../Dixom/Module/DSP/DSP_Calculations.c:326:6:DSP_WideStereoCalculation	16	static
+../Dixom/Module/DSP/DSP_Calculations.c:350:6:DAC_VolCalculation	16	static
+../Dixom/Module/DSP/DSP_Calculations.c:363:6:DSP_PhatStereoCalculation	24	static
+../Dixom/Module/DSP/DSP_Calculations.c:369:6:DSP_LoudnessVolumCalculation	24	static

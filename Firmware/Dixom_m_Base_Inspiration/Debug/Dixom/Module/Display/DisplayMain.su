@@ -1,0 +1,5 @@
+../Dixom/Module/Display/DisplayMain.c:16:6:DISPLAY	24	static
+../Dixom/Module/Display/DisplayMain.c:25:6:SET_Brightness	32	static
+../Dixom/Module/Display/DisplayMain.c:37:6:SetDisplayBrightness	24	static
+../Dixom/Module/Display/DisplayMain.c:54:6:SetBrightness	16	static
+../Dixom/Module/Display/DisplayMain.c:62:6:Display_Loading_Complete	8	static

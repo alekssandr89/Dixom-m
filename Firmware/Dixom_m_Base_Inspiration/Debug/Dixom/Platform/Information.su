@@ -1,0 +1,5 @@
+../Dixom/Platform/Information.c:20:6:Initialization_Firmware_Information	8	static
+../Dixom/Platform/Information.c:40:6:Initialization_Device_Information	56	static
+../Dixom/Platform/Information.c:63:6:DIXOM_PCB	24	static
+../Dixom/Platform/Information.c:74:6:DIXOM_VERSION	40	static
+../Dixom/Platform/Information.c:154:6:EXHANGE_LOG	64	static

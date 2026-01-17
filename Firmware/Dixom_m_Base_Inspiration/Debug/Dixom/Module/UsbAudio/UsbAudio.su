@@ -1,0 +1,8 @@
+../Dixom/Module/UsbAudio/UsbAudio.c:19:6:USB_AUDIO_CARD_STRING_CONTROL	32	static
+../Dixom/Module/UsbAudio/UsbAudio.c:30:6:Automatic_Detection_USB_Audio_Card_And_Initialization	8	static
+../Dixom/Module/UsbAudio/UsbAudio.c:55:6:InitDixomHiResAudio	8	static
+../Dixom/Module/UsbAudio/UsbAudio.c:61:6:Update_AudioCard_Information	40	static
+../Dixom/Module/UsbAudio/UsbAudio.c:124:6:Get_AudioCard_Information	16	static
+../Dixom/Module/UsbAudio/UsbAudio.c:134:9:Transmit_UsbSoundCard	80	static
+../Dixom/Module/UsbAudio/UsbAudio.c:160:6:GET_Receiver_UsbSoundCard	80	static
+../Dixom/Module/UsbAudio/UsbAudio.c:169:6:Receiver_UsbSoundCard	88	static

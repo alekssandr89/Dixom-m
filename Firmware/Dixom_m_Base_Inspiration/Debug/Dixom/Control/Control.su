@@ -1,0 +1,5 @@
+../Dixom/Control/Control.c:13:10:Control_Structures_Initialization_From_Flash	8	static
+../Dixom/Control/Control.c:27:10:Control_Structures_Initialization_Final	8	static
+../Dixom/Control/Control.c:33:10:Control_Structures_Write_To_Flash	8	static
+../Dixom/Control/Control.c:45:10:Control_Structures_Default	16	static
+../Dixom/Control/Control.c:56:7:Control_Loop	8	static

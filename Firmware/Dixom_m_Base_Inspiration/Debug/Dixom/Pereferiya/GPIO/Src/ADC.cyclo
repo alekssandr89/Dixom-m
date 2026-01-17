@@ -1,0 +1,6 @@
+../Dixom/Pereferiya/GPIO/Src/ADC.c:25:6:ADC_Start_DMA	1
+../Dixom/Pereferiya/GPIO/Src/ADC.c:30:6:Action_Analog_Control_Loop	7
+../Dixom/Pereferiya/GPIO/Src/ADC.c:62:7:ChEvent	3
+../Dixom/Pereferiya/GPIO/Src/ADC.c:75:6:ADC_READ	1
+../Dixom/Pereferiya/GPIO/Src/ADC.c:82:6:ACC_READ	1
+../Dixom/Pereferiya/GPIO/Src/ADC.c:87:6:LIGHT_READ	1

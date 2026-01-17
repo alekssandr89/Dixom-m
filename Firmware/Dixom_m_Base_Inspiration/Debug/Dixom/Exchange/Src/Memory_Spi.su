@@ -1,0 +1,12 @@
+../Dixom/Exchange/Src/Memory_Spi.c:22:6:FlashMemoryWrite	24	static
+../Dixom/Exchange/Src/Memory_Spi.c:35:6:FlashMemoryRead	32	static
+../Dixom/Exchange/Src/Memory_Spi.c:45:6:FlashRegistrWrite	16	static
+../Dixom/Exchange/Src/Memory_Spi.c:51:6:FlashRegistrRead	32	static
+../Dixom/Exchange/Src/Memory_Spi.c:58:6:FlashSectorErase	24	static
+../Dixom/Exchange/Src/Memory_Spi.c:71:6:FlashMemoryErase	8	static
+../Dixom/Exchange/Src/Memory_Spi.c:77:6:FlashMemoryWriteEnable	8	static
+../Dixom/Exchange/Src/Memory_Spi.c:84:6:FlashMemoryWriteDisable	8	static
+../Dixom/Exchange/Src/Memory_Spi.c:92:6:FlashMemoryBusyStatus	8	static
+../Dixom/Exchange/Src/Memory_Spi.c:98:6:SpiFlashErase	24	static
+../Dixom/Exchange/Src/Memory_Spi.c:107:6:Spi_Flash_Write_CheckSumm	312	static
+../Dixom/Exchange/Src/Memory_Spi.c:139:6:Spi_Flash_Read_CheckSumm	304	static

@@ -1,0 +1,4 @@
+../Dixom/Menu/Src/main_Menu.c:41:6:main_Menu	32	static
+../Dixom/Menu/Src/main_Menu.c:68:6:GENERAL	24	static
+../Dixom/Menu/Src/main_Menu.c:93:6:SHOW_ALL_MODIFIED_PARAMETERS	16	static
+../Dixom/Menu/Src/main_Menu.c:107:6:RECIVE_DATA_LOSS_TEST	24	static

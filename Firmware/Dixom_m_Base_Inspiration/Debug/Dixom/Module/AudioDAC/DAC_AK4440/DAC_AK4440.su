@@ -1,0 +1,2 @@
+../Dixom/Module/AudioDAC/DAC_AK4440/DAC_AK4440.c:7:6:Init_DAC_AK4440	24	static
+../Dixom/Module/AudioDAC/DAC_AK4440/DAC_AK4440.c:59:6:Mute_DAC_AK4440	32	static

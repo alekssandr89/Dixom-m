@@ -1,0 +1,9 @@
+../Dixom/Platform/Streams.c:34:6:Task_Main_Setup	1
+../Dixom/Platform/Streams.c:54:6:Task_Main_Infinite_Loop	6
+../Dixom/Platform/Streams.c:94:6:AppCameraAutomatic	10
+../Dixom/Platform/Streams.c:134:6:setTestCount	1
+../Dixom/Platform/Streams.c:139:6:Task_Perifer_Service_Infinite_Loop	3
+../Dixom/Platform/Streams.c:161:6:Task_Execution_With_Time_Interval	11
+../Dixom/Platform/Streams.c:208:6:Task_Display_Infinite_Loop	2
+../Dixom/Platform/Streams.c:215:6:Task_Interaction_Infinite_Loop	3
+../Dixom/Platform/Streams.c:232:6:Task_Flashing_LED_Indicator_Infinite_Loop	6

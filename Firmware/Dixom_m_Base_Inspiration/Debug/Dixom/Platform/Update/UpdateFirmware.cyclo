@@ -1,0 +1,12 @@
+../Dixom/Platform/Update/UpdateFirmware.c:29:7:SYSTEM	16
+../Dixom/Platform/Update/UpdateFirmware.c:51:6:ConnectionSetup	3
+../Dixom/Platform/Update/UpdateFirmware.c:62:6:ProtectionBootUpdate	2
+../Dixom/Platform/Update/UpdateFirmware.c:71:6:ProtectionSpiFlashErase	2
+../Dixom/Platform/Update/UpdateFirmware.c:80:6:ProtectionSetKey	2
+../Dixom/Platform/Update/UpdateFirmware.c:88:6:ProtectionSetPcb	2
+../Dixom/Platform/Update/UpdateFirmware.c:98:7:FIRMWARE_DOWNLOAD	4
+../Dixom/Platform/Update/UpdateFirmware.c:121:7:PREPARING_UPDATE	6
+../Dixom/Platform/Update/UpdateFirmware.c:153:7:UPDATE_SYSTEM_UNLOCK	7
+../Dixom/Platform/Update/UpdateFirmware.c:169:6:UPDATE_CANCEL	2
+../Dixom/Platform/Update/UpdateFirmware.c:180:6:CHECK_FIRMWARE	5
+../Dixom/Platform/Update/UpdateFirmware.c:206:6:COMPLETE_UPDATE	3

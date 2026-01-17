@@ -1,0 +1,8 @@
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:15:6:Arduino_Data_Transmit	3
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:40:6:Arduino_Data_Resive	5
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:58:6:Arduino_Loop	12
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:117:6:ArduinoSignature	1
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:123:6:ArduinoUpWritePointer	2
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:130:6:ArduinoDownWritePointer	2
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:138:6:ArduinoDisplayStartInit	1
+../Dixom/Pereferiya/Arduino/Src/Arduino.c:142:6:ArduinoDisplayDoneInit	1

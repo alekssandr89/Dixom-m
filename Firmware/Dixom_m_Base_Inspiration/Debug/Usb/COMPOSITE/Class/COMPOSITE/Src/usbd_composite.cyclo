@@ -1,0 +1,16 @@
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:203:16:USBD_COMPOSITE_Init	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:252:16:USBD_COMPOSITE_DeInit	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:301:16:USBD_COMPOSITE_Setup	6
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:390:16:USBD_COMPOSITE_DataIn	6
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:469:16:USBD_COMPOSITE_EP0_RxReady	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:512:16:USBD_COMPOSITE_EP0_TxReady	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:551:16:USBD_COMPOSITE_SOF	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:592:16:USBD_COMPOSITE_IsoINIncomplete	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:637:16:USBD_COMPOSITE_IsoOutIncomplete	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:677:16:USBD_COMPOSITE_DataOut	4
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:744:17:USBD_COMPOSITE_GetHSCfgDesc	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:756:17:USBD_COMPOSITE_GetFSCfgDesc	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:768:17:USBD_COMPOSITE_GetOtherSpeedCfgDesc	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:785:10:USBD_COMPOSITE_GetDeviceQualifierDesc	1
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:800:17:USBD_COMPOSITE_GetUsrStringDesc	6
+../Usb/COMPOSITE/Class/COMPOSITE/Src/usbd_composite.c:894:6:USBD_COMPOSITE_Mount_Class	1

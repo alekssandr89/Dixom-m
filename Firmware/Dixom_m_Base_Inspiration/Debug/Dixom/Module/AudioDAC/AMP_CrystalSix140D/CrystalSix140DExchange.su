@@ -1,0 +1,2 @@
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DExchange.c:17:5:AmplifierTransmit	48	static
+../Dixom/Module/AudioDAC/AMP_CrystalSix140D/CrystalSix140DExchange.c:36:5:AmplifierReciever	72	dynamic

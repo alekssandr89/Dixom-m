@@ -1,0 +1,4 @@
+../Dixom/Exchange/Src/DIX_spi.c:21:9:Transmit_SPI2	32	static
+../Dixom/Exchange/Src/DIX_spi.c:44:9:Receiver_SPI2	40	static
+../Dixom/Exchange/Src/DIX_spi.c:67:6:SetStateSPI	32	static
+../Dixom/Exchange/Src/DIX_spi.c:97:6:GetStateSPI	16	static

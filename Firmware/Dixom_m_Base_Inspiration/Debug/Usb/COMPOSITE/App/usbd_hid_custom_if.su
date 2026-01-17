@@ -1,0 +1,3 @@
+../Usb/COMPOSITE/App/usbd_hid_custom_if.c:197:15:CUSTOM_HID_Init	4	static
+../Usb/COMPOSITE/App/usbd_hid_custom_if.c:208:15:CUSTOM_HID_DeInit	4	static
+../Usb/COMPOSITE/App/usbd_hid_custom_if.c:221:15:CUSTOM_HID_OutEvent	24	static

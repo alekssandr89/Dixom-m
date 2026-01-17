@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dixom_bs</string>
+
+    <string name="usbNotConnectedForNoty">USB device is not connected</string>
+    <string name="conectUsbDeviceForNoty">Connect Dixom to tablet PC</string>
+    <string name="ActiveInterfaceAll">Active interface all available</string>
+    <string name="ActiveInterfaceUsbHid">Active USB HID interface</string>
+    <string name="ActiveInterfaceUsbCdc">Active USB CDC interface</string>
+    <string name="ActiveInterfaceUsbBluetoothSpp">Active BLUETOOTH SPP interface</string>
+    <string name="sourceForNoty">Source</string>
+    <string name="volForNoty">Volume</string>
+</resources>

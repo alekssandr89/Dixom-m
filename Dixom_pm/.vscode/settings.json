@@ -1,0 +1,9 @@
+{
+    "editor.minimap.maxColumn": 80,
+    "dart.lineLength": 120,
+    "editor.wordWrapColumn": 120,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "CodeGPT.Autocomplete.provider": "OpenAI - gpt-3.5-turbo-instruct",
+    "cmake.sourceDirectory": "E:/dixom_app/linux"
+}

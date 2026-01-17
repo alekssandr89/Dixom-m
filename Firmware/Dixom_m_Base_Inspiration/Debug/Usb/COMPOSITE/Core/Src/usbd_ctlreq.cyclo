@@ -1,0 +1,15 @@
+../Usb/COMPOSITE/Core/Src/../../../../Usb/COMPOSITE/Core/Inc/../../../../Usb/COMPOSITE/Core/Inc/usbd_def.h:342:26:SWAPBYTE	1
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:101:20:USBD_StdDevReq	12
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:164:20:USBD_StdItfReq	9
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:215:20:USBD_StdEPReq	35
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:381:13:USBD_GetDescriptor	25
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:589:13:USBD_SetAddress	6
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:630:27:USBD_SetConfig	9
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:721:13:USBD_GetConfig	5
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:755:13:USBD_GetStatus	4
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:796:13:USBD_SetFeature	2
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:813:13:USBD_ClrFeature	3
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:841:6:USBD_ParseSetupRequest	1
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:870:6:USBD_CtlError	1
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:887:6:USBD_GetString	3
+../Usb/COMPOSITE/Core/Src/usbd_ctlreq.c:923:16:USBD_GetLen	2

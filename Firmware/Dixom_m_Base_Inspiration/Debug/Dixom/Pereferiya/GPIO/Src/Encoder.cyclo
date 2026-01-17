@@ -1,0 +1,4 @@
+../Dixom/Pereferiya/GPIO/Src/Encoder.c:11:6:ENCODER1	5
+../Dixom/Pereferiya/GPIO/Src/Encoder.c:33:6:ENCODER2	5
+../Dixom/Pereferiya/GPIO/Src/Encoder.c:62:6:ecnDirection1	2
+../Dixom/Pereferiya/GPIO/Src/Encoder.c:80:6:ecnDirection2	2

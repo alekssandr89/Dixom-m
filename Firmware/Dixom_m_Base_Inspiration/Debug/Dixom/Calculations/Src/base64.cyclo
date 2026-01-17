@@ -1,0 +1,4 @@
+../Dixom/Calculations/Src/base64.c:63:5:get_encode_base64_required_buffer_size	3
+../Dixom/Calculations/Src/base64.c:78:5:get_decode_base64_required_buffer_size	13
+../Dixom/Calculations/Src/base64.c:113:5:base64_encode	9
+../Dixom/Calculations/Src/base64.c:175:5:base64_decode	21

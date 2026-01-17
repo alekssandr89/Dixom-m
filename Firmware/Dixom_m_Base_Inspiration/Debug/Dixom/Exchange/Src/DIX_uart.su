@@ -1,0 +1,10 @@
+../Dixom/Exchange/Src/DIX_uart.c:40:6:UART_Initialization	16	static
+../Dixom/Exchange/Src/DIX_uart.c:82:7:TxCpltCallbackUart1	8	static
+../Dixom/Exchange/Src/DIX_uart.c:99:6:UART1_Transmit	24	static
+../Dixom/Exchange/Src/DIX_uart.c:132:6:RxIdleCallbackUart1	24	static
+../Dixom/Exchange/Src/DIX_uart.c:179:6:RxDmaCallbackUart1	4	static
+../Dixom/Exchange/Src/DIX_uart.c:196:6:UART2_Transmit	16	static
+../Dixom/Exchange/Src/DIX_uart.c:201:6:UART3_Transmit	16	static
+../Dixom/Exchange/Src/DIX_uart.c:206:6:UART5_Transmit	16	static
+../Dixom/Exchange/Src/DIX_uart.c:211:6:HAL_UART_AbortReceiveCpltCallback	16	static
+../Dixom/Exchange/Src/DIX_uart.c:222:6:HAL_UART_RxCpltCallback	16	static

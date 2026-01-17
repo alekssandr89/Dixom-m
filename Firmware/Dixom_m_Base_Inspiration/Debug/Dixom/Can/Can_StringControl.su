@@ -1,0 +1,13 @@
+../Dixom/Can/Can_StringControl.c:19:6:CAN_STRING_CONTROL	24	static
+../Dixom/Can/Can_StringControl.c:33:6:CAN_SHOW_PARAMETERS	16	static
+../Dixom/Can/Can_StringControl.c:41:6:CAN_Flash_NeedToSave	8	static
+../Dixom/Can/Can_StringControl.c:45:6:CAN_SendMessage	32	static
+../Dixom/Can/Can_StringControl.c:66:6:CAN_Settings	32	static
+../Dixom/Can/Can_StringControl.c:106:6:CAN_Settings_Speed	24	static
+../Dixom/Can/Can_StringControl.c:129:6:CAN_Status	32	static
+../Dixom/Can/Can_StringControl.c:171:6:GetCanStatus	56	static
+../Dixom/Can/Can_StringControl.c:191:6:CAN_Speed	32	static
+../Dixom/Can/Can_StringControl.c:240:6:CAN_Car	64	static
+../Dixom/Can/Can_StringControl.c:274:6:CAN_Filter	96	static
+../Dixom/Can/Can_StringControl.c:334:6:canWakeUp	4	static
+../Dixom/Can/Can_StringControl.c:348:6:LightOn	4	static

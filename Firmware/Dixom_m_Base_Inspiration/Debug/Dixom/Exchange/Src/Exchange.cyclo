@@ -1,0 +1,12 @@
+../Dixom/Exchange/Src/Exchange.c:22:6:Exchange_Initialization	1
+../Dixom/Exchange/Src/Exchange.c:33:9:ExchangeStatus	7
+../Dixom/Exchange/Src/Exchange.c:86:9:TransmitDataOutputs	42
+../Dixom/Exchange/Src/Exchange.c:259:6:BluetoothTransmit	10
+../Dixom/Exchange/Src/Exchange.c:324:6:Write_ExchageLogs	9
+../Dixom/Exchange/Src/Exchange.c:359:6:Copy_ArrayToArray	5
+../Dixom/Exchange/Src/Exchange.c:372:6:Copy_Array	5
+../Dixom/Exchange/Src/Exchange.c:387:10:Converter_8_to_u32	1
+../Dixom/Exchange/Src/Exchange.c:392:6:Converter_u32_to_u8	1
+../Dixom/Exchange/Src/Exchange.c:401:6:GATEWAY	4
+../Dixom/Exchange/Src/Exchange.c:429:6:BIT_CHIP_CONTROL	18
+../Dixom/Exchange/Src/Exchange.c:509:6:Regiser_Read_Loop	24

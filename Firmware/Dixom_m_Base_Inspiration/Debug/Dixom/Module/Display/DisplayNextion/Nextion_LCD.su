@@ -1,0 +1,8 @@
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:17:6:NEXTION_LCD_Transmit	24	static
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:43:6:NEXTION_LCD_Resive	16	static
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:61:6:Nextion_Loop	24	static
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:114:6:NextionSignature	4	static
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:120:6:NextionUpWritePointer	4	static
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:127:6:NextionDownWritePointer	4	static
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:136:6:Nextion_Display_Automatic_Detection	8	static
+../Dixom/Module/Display/DisplayNextion/Nextion_LCD.c:143:6:NextionDisplayDoneInit	8	static

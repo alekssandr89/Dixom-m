@@ -1,0 +1,4 @@
+../Dixom/Pereferiya/RTC_3231/Src/RTC.c:13:6:RTC_TIME	14
+../Dixom/Pereferiya/RTC_3231/Src/RTC.c:77:6:RTC_TEMPERATURE	1
+../Dixom/Pereferiya/RTC_3231/Src/RTC.c:84:6:RTC_GettingTime	1
+../Dixom/Pereferiya/RTC_3231/Src/RTC.c:96:6:RegisterToStruct	1

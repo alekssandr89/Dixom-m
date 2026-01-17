@@ -1,0 +1,195 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Tuesday, February 6, 2024 9:50:01 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.6.0,1809  (built 12/23/2020)
+
+##### Compile Started: Tuesday, February 6, 2024 9:50:01 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       17315    (of 20480)
+DM1 RAM used:       17078    (of 20480)
+PM  RAM used(Data): 00000    (of 8192)
+PM  RAM used(Inst): 03584    (of 8192) 2403 instructions (32bit: 1222  64bit: 1181)
+Total PM used:      03584    (of 8192)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+AudioRouter                   506       833       226     238     0
+FRAMEWORK                     98        73        16      50      0
+LOUDNESS_MIC                  39        55        11      10      0
+LOUDNESS_SPDIF                39        55        11      10      0
+LOUDNESS_RADIO                39        55        11      10      0
+LOUDNESS_USB                  39        55        11      10      0
+LOUDNESS_BLUETOOTH            39        55        11      10      0
+LOUDNESS_AUX                  39        55        11      10      0
+EQ_USB_3                      32        47        37      40      0
+EQ_USB_4                      32        47        37      40      0
+EQ_USB_5                      32        47        37      40      0
+EQ_USB_6                      32        47        37      40      0
+EQ_USB_2                      32        46        37      40      0
+EQ_USB                        32        45        37      40      0
+VOL_MASTER                    32        32        1       12      0
+CROSSOVER_CH6R                28        29        50      45      0
+CROSSOVER_CH1L                28        29        50      45      0
+CROSSOVER_CH2R                28        29        50      45      0
+CROSSOVER_CH3L                28        29        50      45      0
+CROSSOVER_CH4R                28        29        50      45      0
+CROSSOVER_CH7L                28        29        50      45      0
+CROSSOVER_CH8R                28        29        50      45      0
+CROSSOVER_CH5L                28        29        50      45      0
+CROSSOVER_CH10R               28        29        50      45      0
+CROSSOVER_CH11L               28        29        50      45      0
+CROSSOVER_CH12R               28        29        50      45      0
+CROSSOVER_SPDIF_R             28        29        50      45      0
+CROSSOVER_SPDIF_L             28        29        50      45      0
+CROSSOVER_CH9L                28        29        50      45      0
+S Mixer1                      22        27        9       1       0
+EQ_CH7L                       38        26        75      66      0
+EQ_CH5L                       38        26        75      66      0
+EQ_CH1L                       38        26        75      66      0
+EQ_CH2R                       38        26        75      66      0
+EQ_CH3L                       38        26        75      66      0
+EQ_CH6R                       38        26        75      66      0
+EQ_CH4R                       38        26        75      66      0
+EQ_CH9L                       38        26        75      65      0
+EQ_CH10R                      38        26        75      65      0
+EQ_CH11L                      38        26        75      65      0
+EQ_CH8R                       38        26        75      65      0
+EQ_CH12R                      38        26        75      65      0
+EQ_SPDIF_L                    38        26        75      65      0
+EQ_SPDIF_R                    38        26        75      65      0
+GAIN_CH7_8                    13        20        4       0       0
+GAIN_CH5_6                    13        20        4       0       0
+GAIN_CH3_4                    13        20        4       0       0
+GAIN_CH1_2                    13        20        4       0       0
+GAIN_CH9_10                   13        20        4       0       0
+GAIN_CH11_12                  13        20        4       0       0
+GAIN_CH11_13                  13        20        4       0       0
+SINUS                         18        19        10      1       0
+Usb_STSC                      12        16        5       2       0
+Radio_STSC                    12        16        5       2       0
+Aux_STSC                      12        16        5       2       0
+Bluetooth_STSC                12        16        5       2       0
+STEREO_USB_SWITCH_5           12        16        5       0       0
+STEREO_USB_SWITCH_4           12        16        5       0       0
+STEREO_USB_SWITCH_3           12        16        5       0       0
+STEREO_USB_SWITCH_2           12        16        5       0       0
+STEREO_USB_SWITCH             12        16        5       0       0
+STEREO_USB_SWITCH_6           12        16        5       0       0
+ASRC_INPUT_2                  15        15        0       12      0
+STEREO_USB                    12        12        3       2       0
+STEREO_SPDIF                  12        12        3       2       0
+STEREO_AUX                    12        12        3       2       0
+STEREO_BLUETOOTH              12        12        3       2       0
+STEREO_MIC                    12        12        3       2       0
+STEREO_RADIO                  12        12        3       2       0
+DT_CH10R                      10        12        2       1       0
+DT_CH11L                      10        12        2       1       0
+DT_SPDIF_R                    10        12        2       1       0
+DT_CH1L                       10        12        2       1       0
+DT_CH2R                       10        12        2       1       0
+DT_CH4R                       10        12        2       1       0
+DT_CH6R                       10        12        2       1       0
+DT_CH5L                       10        12        2       1       0
+DT_CH8R                       10        12        2       1       0
+DT_CH7L                       10        12        2       1       0
+DT_CH9L                       10        12        2       1       0
+DT_SPDIF_L                    10        12        2       1       0
+DT_CH3L                       10        12        2       1       0
+DT_CH12R                      10        12        2       1       0
+DELAY_CH5L                    8         11        2114    1       0
+DELAY_CH1L                    8         11        2114    1       0
+DELAY_CH2R                    8         11        2114    1       0
+DELAY_CH3L                    8         11        2114    1       0
+DELAY_CH6R                    8         11        2114    1       0
+DELAY_CH7L                    8         11        2114    1       0
+DELAY_CH4R                    8         11        2114    1       0
+DT_AuxR_2                     10        11        2       1       0
+OUT_VOL_CH7L_8R               7         11        1       2       0
+OUT_VOL_CH1L_2R               7         11        1       2       0
+OUT_VOL_CH3L_4R               7         11        1       2       0
+OUT_VOL_CH5L_6R               7         11        1       2       0
+OUT_VOL_CH9L_10R              7         11        1       2       0
+OUT_VOL_CH11L_12R             7         11        1       2       0
+OUTVOL_SPDIF                  7         11        1       2       0
+DT_RadioR                     10        10        2       1       0
+DT_AuxL                       10        10        2       1       0
+DT_AuxR                       10        10        2       1       0
+DT_SpdifR                     10        10        2       1       0
+DT_MicL                       10        10        2       1       0
+DT_MicR                       10        10        2       1       0
+DT_USBR                       10        10        2       1       0
+DT_USBL                       10        10        2       1       0
+DT_BluetoothR                 10        10        2       1       0
+DT_BluetoothL                 10        10        2       1       0
+DT_RadioL                     10        10        2       1       0
+DT_SpdifL                     10        10        2       1       0
+DELAY_CH10R                   7         9         1       2114    0
+DELAY_CH12R                   7         9         1       2114    0
+DELAY_CH8R                    7         9         1       2114    0
+DELAY_CH9L                    7         9         1       2114    0
+DELAY_SPDIFL                  7         9         1       2114    0
+DELAY_CH11L                   7         9         1       2114    0
+DELAY_SPDIFR                  7         9         1       2114    0
+VOL_MIC                       7         7         1       2       0
+VOL_USB                       7         7         1       2       0
+VOL_BLUETOOTH                 7         7         1       2       0
+VOL_AUX                       7         7         1       2       0
+VOL_RADIO                     7         7         1       2       0
+VOL_SPDIF                     7         7         1       2       0
+Invert_Aux_R                  4         6         1       1       0
+Invert_Aux_L                  4         6         1       1       0
+Invert_Bluetooth_R            4         6         1       1       0
+Invert_CH9L                   4         6         1       1       0
+Invert_Radio_L                4         6         1       1       0
+Invert_CH14R                  4         6         1       1       0
+Invert_SPDIFL                 4         6         1       1       0
+Invert_CH12R                  4         6         1       1       0
+Invert_CH11L                  4         6         1       1       0
+Invert_CH10R                  4         6         1       1       0
+Invert_Radio_R                4         6         1       1       0
+Invert_CH8R                   4         6         1       1       0
+Invert_CH6R                   4         6         1       1       0
+Invert_CH5L                   4         6         1       1       0
+Invert_CH4R                   4         6         1       1       0
+Invert_CH3L                   4         6         1       1       0
+Invert_CH2R                   4         6         1       1       0
+Invert_CH1L                   4         6         1       1       0
+Invert_Mic_R                  4         6         1       1       0
+Invert_Mic_L                  4         6         1       1       0
+Invert_Spdif_R                4         6         1       1       0
+Invert_CH7L                   4         6         1       1       0
+Invert_Spdif_L                4         6         1       1       0
+NOISE                         4         5         1       1       0
+Invert_Bluetooth_L            4         5         1       1       0
+Invert_Usb_L                  4         5         1       1       0
+Invert_Usb_R                  4         5         1       1       0
+Input2                        4         4         0       2       0
+Input3                        4         4         0       2       0
+Input4                        4         4         0       2       0
+Input1                        4         4         0       2       0
+Output_CH12                   2         3         0       0       0
+Output_CH11                   2         3         0       0       0
+Output_CH10                   2         3         0       0       0
+Output_CH9                    2         3         0       0       0
+Output_CH8                    2         3         0       0       0
+Output_CH7                    2         3         0       0       0
+Output_CH6                    2         3         0       0       0
+Output_CH4                    2         3         0       0       0
+Output_CH3                    2         3         0       0       0
+Output_CH2                    2         3         0       0       0
+Output_CH1                    2         3         0       0       0
+SPDIF_OUT_L                   2         3         0       0       0
+Output_CH5                    2         3         0       0       0
+SPDIF_OUT_R                   2         3         0       0       0
+--------------------------------------------------------------------------------------
+Total                         2942      3524      17311   17074   0
+--------------------------------------------------------------------------------------
+(% Fs=48.0kHz)                48%       44%       85%     84%     0%
+

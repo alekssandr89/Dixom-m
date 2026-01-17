@@ -1,0 +1,5 @@
+package ru.dixom.dixom
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

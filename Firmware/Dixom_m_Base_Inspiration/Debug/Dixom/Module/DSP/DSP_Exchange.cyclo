@@ -1,0 +1,12 @@
+../Dixom/Module/DSP/DSP_Exchange.c:21:6:Transmit_Sigma	3
+../Dixom/Module/DSP/DSP_Exchange.c:35:6:Transmit_Sigma1701	3
+../Dixom/Module/DSP/DSP_Exchange.c:49:6:Transmit_DSP	1
+../Dixom/Module/DSP/DSP_Exchange.c:58:6:Transmit_DSP_SafeLoad	2
+../Dixom/Module/DSP/DSP_Exchange.c:73:6:Receiver_DSP	1
+../Dixom/Module/DSP/DSP_Exchange.c:82:6:SPI_mode_DSP	1
+../Dixom/Module/DSP/DSP_Exchange.c:96:6:I2C_Send_to_DSP	1
+../Dixom/Module/DSP/DSP_Exchange.c:100:6:I2C_Reading_from_DSP	1
+../Dixom/Module/DSP/DSP_Exchange.c:104:9:Struct_Flash_SPI_Write	1
+../Dixom/Module/DSP/DSP_Exchange.c:111:9:Struct_Flash_SPI_Read	2
+../Dixom/Module/DSP/DSP_Exchange.c:123:9:Struct_Flash_STM_Write	1
+../Dixom/Module/DSP/DSP_Exchange.c:132:9:Struct_Flash_STM_Read	2

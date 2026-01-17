@@ -1,0 +1,7 @@
+../Dixom/Module/Display/DisplayText/Src/i2c-lcd.c:14:6:TextLCD_SetBrightness	16	static
+../Dixom/Module/Display/DisplayText/Src/i2c-lcd.c:24:6:lcd_send_cmd	32	static
+../Dixom/Module/Display/DisplayText/Src/i2c-lcd.c:51:6:lcd_send_data	32	static
+../Dixom/Module/Display/DisplayText/Src/i2c-lcd.c:72:6:Display_Text_Set_Cursor	40	static
+../Dixom/Module/Display/DisplayText/Src/i2c-lcd.c:105:6:Transmit_Display_Text	40	static
+../Dixom/Module/Display/DisplayText/Src/i2c-lcd.c:164:6:lcd_init	8	static
+../Dixom/Module/Display/DisplayText/Src/i2c-lcd.c:173:6:lcd_send_string	16	static

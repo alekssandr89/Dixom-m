@@ -1,0 +1,16 @@
+../Dixom/Exchange/Src/DIX_i2c.c:34:6:Scanning_I2C1	24	static
+../Dixom/Exchange/Src/DIX_i2c.c:57:6:Scanning_I2C2	24	static
+../Dixom/Exchange/Src/DIX_i2c.c:82:9:DevState_I2C1	24	static
+../Dixom/Exchange/Src/DIX_i2c.c:105:9:DevState_I2C2	24	static
+../Dixom/Exchange/Src/DIX_i2c.c:130:9:Transmit_I2C1	48	static
+../Dixom/Exchange/Src/DIX_i2c.c:176:9:Transmit_I2C2	48	static
+../Dixom/Exchange/Src/DIX_i2c.c:227:6:HAL_I2C_MasterTxCpltCallback	16	static
+../Dixom/Exchange/Src/DIX_i2c.c:235:6:HAL_I2C_MemTxCpltCallback	16	static
+../Dixom/Exchange/Src/DIX_i2c.c:243:6:HAL_I2C_ErrorCallback	16	static
+../Dixom/Exchange/Src/DIX_i2c.c:251:6:HAL_I2C_AbortCpltCallback	16	static
+../Dixom/Exchange/Src/DIX_i2c.c:261:9:Receiver_I2C1	48	static
+../Dixom/Exchange/Src/DIX_i2c.c:295:9:Receiver_I2C2	48	static
+../Dixom/Exchange/Src/DIX_i2c.c:336:6:HAL_I2C_MasterRxCpltCallback	16	static
+../Dixom/Exchange/Src/DIX_i2c.c:344:6:HAL_I2C_MemRxCpltCallback	16	static
+../Dixom/Exchange/Src/DIX_i2c.c:353:9:Waiting_I2C_For_Release	24	static
+../Dixom/Exchange/Src/DIX_i2c.c:367:9:Receiver_I2C2_NoSemaphore	40	static

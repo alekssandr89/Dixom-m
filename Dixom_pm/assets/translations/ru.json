@@ -1,0 +1,18 @@
+{
+    "consoleTime" : "Время",
+    "consoleConnection" : "Подключение",
+    "consoleDirection" : "Направление",
+    "consolePackage" : "Пакет",
+    "consoleParam" : "Параметр",
+    "consoleData" : "Данные",
+
+    "pageHome" : "Дом",
+    "pageCan" : "Кан шина",
+    "pageSettings" : "Настройки",
+    "pageSound" : "Звук",
+    "pageConsole" : "Консоль", 
+
+    "usbConnectionNone":"Соединение разорвано",
+    "usbConnectionYes":"Соединение установлено",
+    "appLanguage" : "Русский"
+}

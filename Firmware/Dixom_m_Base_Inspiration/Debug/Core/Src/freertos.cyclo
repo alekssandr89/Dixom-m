@@ -1,0 +1,8 @@
+../Core/Src/freertos.c:87:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:101:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:198:6:Start_Control_Task	1
+../Core/Src/freertos.c:219:6:Start_UART_RESIVE	1
+../Core/Src/freertos.c:238:6:Start_LED_STROB	1
+../Core/Src/freertos.c:257:6:Start_SendDataUsb	1
+../Core/Src/freertos.c:277:6:Start_Display	1
+../Core/Src/freertos.c:296:6:Start_Interaction	1

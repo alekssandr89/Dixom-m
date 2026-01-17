@@ -1,0 +1,10 @@
+../Dixom/Module/DSP/SigmaStudio/Inc_ADAU1452/Base_DSP_ADAU1452.h:38495:6:default_download_DSP_ADAU1452	1
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:19:6:Initialization_DSP_Audio_Processor	16
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:65:6:Init_DSP_ADAU1452	1
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:151:6:Init_DSP_ADAU1701	2
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:209:6:InitDspSerialInput	1
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:243:6:DSP_Clock	1
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:248:6:SOUND_REINIT	1
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:271:6:updateLevel	8
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:342:6:LoopLevelDetector	21
+../Dixom/Module/DSP/SigmaStudio/Src/Sigma.c:432:6:GetServiceInformation	1

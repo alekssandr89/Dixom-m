@@ -1,0 +1,4 @@
+../Dixom/Module/AudioDAC/AudioDAC.c:19:6:DAC_Mute	16	static
+../Dixom/Module/AudioDAC/AudioDAC.c:31:6:DAC_Volume	16	static
+../Dixom/Module/AudioDAC/AudioDAC.c:42:6:DAC_Restart	16	static
+../Dixom/Module/AudioDAC/AudioDAC.c:54:6:Automatic_Detection_Audio_DAC_And_Initialization	8	static

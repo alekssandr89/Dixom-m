@@ -1,0 +1,18 @@
+{
+    "consoleTime" : "Time",
+    "consoleConnection" : "Connection",
+    "consoleDirection" : "Direction",
+    "consolePackage" : "Package",
+    "consoleParam" : "Parameter",
+    "consoleData" : "Data",
+
+    "pageHome" : "Home",
+    "pageCan" : "Can bus",
+    "pageSettings" : "Settings",
+    "pageSound" : "Sound",
+    "pageConsole" : "Console", 
+
+    "usbConnectionNone":"Connection lost",
+    "usbConnectionYes":"Connection Ok",
+    "appLanguage" : "English"
+}

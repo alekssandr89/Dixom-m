@@ -1,0 +1,8 @@
+../Dixom/Exchange/Src/DIX_usb.c:34:6:USB_Connected	4	static
+../Dixom/Exchange/Src/DIX_usb.c:39:6:USB_Connected_UsbHid	4	static
+../Dixom/Exchange/Src/DIX_usb.c:46:6:USB_Connected_UsbCdc	4	static
+../Dixom/Exchange/Src/DIX_usb.c:53:6:USB_Disconnected	8	static
+../Dixom/Exchange/Src/DIX_usb.c:65:6:USB_Sending_Completed	16	static
+../Dixom/Exchange/Src/DIX_usb.c:77:9:Transmit_USB_CDC	16	static
+../Dixom/Exchange/Src/DIX_usb.c:88:9:USB_HID_Transmit_FS	16	static
+../Dixom/Exchange/Src/DIX_usb.c:103:9:Transmit_Hid_Device	16	static

@@ -1,0 +1,5 @@
+../Dixom/Module/Display/MicroMenu.c:34:14:Menu_GetCurrentMenu	4	static
+../Dixom/Module/Display/MicroMenu.c:39:6:Menu_Navigate	24	static
+../Dixom/Module/Display/MicroMenu.c:55:6:Menu_SetGenericWriteCallback	16	static
+../Dixom/Module/Display/MicroMenu.c:61:6:Menu_EnterCurrentItem	16	static
+../Dixom/Module/Display/MicroMenu.c:72:6:Menu_SelectCallback	16	static

@@ -1,0 +1,8 @@
+C:/Users/alekk/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	1
+../Dixom/Platform/Launch.c:28:6:Launch_Dixom	1
+../Dixom/Platform/Launch.c:59:6:Launch_Sequence	1
+../Dixom/Platform/Launch.c:114:6:Launch_Successful	1
+../Dixom/Platform/Launch.c:130:6:Launch_Update_Information	1
+../Dixom/Platform/Launch.c:148:6:Launch_Checking_The_Firmware	5
+../Dixom/Platform/Launch.c:182:6:Launch_Emergency_Protection	2
+../Dixom/Platform/Launch.c:189:6:BootloaderUpdate	0
