@@ -66,7 +66,7 @@ WorkRes Receiver_SPI2(uint8_t *pTxData, uint8_t *pRxData, uint16_t Size, uint32_
 
 void SetStateSPI(uint8_t ControlByte, uint8_t *Recive_USB){
 
-	if(ControlByte == DATA_GET){
+	if(ControlByte == DATA_SET){
 		short state  = 0;
 
 		sscanf((char *)Recive_USB,"%hu", &state);

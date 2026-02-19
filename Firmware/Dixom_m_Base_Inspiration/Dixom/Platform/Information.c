@@ -10,7 +10,7 @@
 
 extern sDixom Dixom;
 
-uint16_t FrimwareVer = 5006;
+uint16_t FrimwareVer = 5010;
 #define click System_Info_1_3_2
 
 #define DevType  "Platform"

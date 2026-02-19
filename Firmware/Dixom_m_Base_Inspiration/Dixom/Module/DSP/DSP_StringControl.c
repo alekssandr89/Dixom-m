@@ -64,11 +64,26 @@ void SOUND_STRING_CONTROL(uint8_t ControlByte, uint8_t Function, uint8_t *Receiv
 	else if(Function == SOUND_SIN_GEN)               { DSP_SET_SINGEN(Received_String);                                                } // Set sinus generation
     else if(Function == SOUND_VOL_CONTROL)           { DSP_SET_VOLUME_CONTROL(Received_String);          DSP_EEPROM_NeedToSave();      } // Set sound control type
 
+    else if(Function == SOUND_DAC_INIT)              {
+    	Automatic_Detection_Audio_DAC_And_Initialization();
+    	if(Dixom.Module.AudioDAC.DAC_Type == DAC_NotConnected){
+    		TransmitDataOutputs("4 33 DAC Not Found", AutoLenght,  false,  true, allAvailable);
+    	}else if(Dixom.Module.AudioDAC.DAC_Type == DAC_AK4458VN){
+    		TransmitDataOutputs("4 33 Initialization DAC  AK4458VN", AutoLenght,  false,  true, allAvailable);
+    	}else if(Dixom.Module.AudioDAC.DAC_Type == DAC_AK4440){
+    		TransmitDataOutputs("4 33 Initialization DAC AK4440", AutoLenght,  false,  true, allAvailable);
+    	}else if(Dixom.Module.AudioDAC.DAC_Type == DAC_TAS3251){
+    		TransmitDataOutputs("4 33 Initialization DAC TAS3251", AutoLenght,  false,  true, allAvailable);
+    	}else if(Dixom.Module.AudioDAC.DAC_Type == AMPLIFIER_3xTAS3251){
+    		TransmitDataOutputs("4 33 Initialization AMPLIFIER 3xTAS3251", AutoLenght,  false,  true, allAvailable);
+    	}else if(Dixom.Module.AudioDAC.DAC_Type == DAC_PCM1681){
+    		TransmitDataOutputs("4 33 Initialization DAC PCM1681", AutoLenght,  false,  true, allAvailable);
+    	}
+    }
 
 	else if(Function == SOUND_GET_ALL_MODIFIED_PARAM) { DSP_SHOW_PARAMETERS(Modified);                                                } // Get Modified DSP Parameters
 	else{
    		TransmitDataOutputs((uint8_t *)GeneralNotifi_NoPackageFunction, AutoLenght,  false,  true, allAvailable);
-
 	}
 
 	if(ControlByte == DATA_SET){ //SET

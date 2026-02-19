@@ -364,6 +364,7 @@ typedef enum
 	SOUND_W_STEREO               = 28,
 	SOUND_S_BASS                 = 29,
 
+	SOUND_DAC_INIT               = 33,
 	SOUND_DEFAULT                = 34,
 	SOUND_GET_ALL_MODIFIED_PARAM = 35,
 	SOUND_GET_ALL_EQUALIZER      = 36,

@@ -114,7 +114,7 @@ int main(void)
   MX_ADC1_Init();
   MX_ADC2_Init();
   MX_USB_OTG_FS_PCD_Init();
-  MX_IWDG_Init();
+  //MX_IWDG_Init();
   MX_TIM3_Init();
   MX_TIM6_Init();
   MX_TIM8_Init();
